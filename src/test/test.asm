@@ -446,7 +446,7 @@ table_test_eg_op_string_offsets:
 str_ad:                         DC "A/D", 0
 str_pitch_bender:               DC "PITCH BENDER    ", 0
 str_modulation_wheel:           DC "MODULATION WHEEL", 0
-str_breath_controller:          DC "BREATH CONTROLER", 0
+str_breath_controller:          DC "BREATH CONTROLLER", 0
 str_data_entry:                 DC "DATA ENTRY", 0
 
 str_auto_scal:                  DC "AUTO SCAL", 0
